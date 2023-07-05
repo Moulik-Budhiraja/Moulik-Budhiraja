@@ -41,8 +41,6 @@ I'm always excited to connect with other developers and share knowledge and idea
 
 ---
 
-https://github-readme-stats.vercel.app
-
 ## Stats :
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Moulik-Budhiraja&count_private=true&theme=transparent&border_color=30363d&include_all_commits=true&show_icons=true&text_bold=false&card_width=350" alt="Moulik's Github Stats" align="left"></img>
