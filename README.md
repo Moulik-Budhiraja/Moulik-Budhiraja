@@ -6,13 +6,6 @@
 
 <h1 align="center">Hey There, I'm Moulik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-## About Me :
-
-Hi there! I'm a Canadian student at the University of Guelph with a passion for programming. As a mostly self-taught developer, I love to learn through building projects and experimenting with different technologies.
-
-Currently, my favorite language is Typescript, and I'm always looking for ways to expand my knowledge and skillset in this area. I love the flexibility and power of Javascript, and how it can be used to create dynamic and engaging user experiences on the web.
-
-I'm always excited to connect with other developers and share knowledge and ideas. If you have any questions or just want to chat, feel free to reach out to me at moulikbudhiraja@gmail.com. Thanks for stopping by!
 
 ---
 
