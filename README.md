@@ -6,6 +6,7 @@
 
 <h1 align="center">Hey There, I'm Moulik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<!--
 
 ## Languages, Tools, and Skills :
 
@@ -59,6 +60,8 @@
 <br/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Moulik-Budhiraja&style=for-the-badge&color=blue" alt=""></p>
+
+-->
 
 <!--- ![Moulik's Github Stats](https://github-readme-stats.vercel.app/api?username=Moulik-Budhiraja&count_private=true&theme=transparent&border_color=30363d&include_all_commits=true)
 
