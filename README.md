@@ -9,13 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 8 mins
+Total Time: 0 secs
 
-Swift         12 hrs 56 mins  █████████████████▓░░░░░░░   70.59 %
-Other         4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
-XML           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-TypeScript    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-C             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
