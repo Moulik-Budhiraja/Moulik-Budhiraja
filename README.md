@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 19 mins
+Total Time: 8 hrs 41 mins
 
-Other         2 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 %
-TypeScript    1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-YAML          1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-Python        53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Swift         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Python        4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
+Other         2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+TypeScript    1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+YAML          1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Swift         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
