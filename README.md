@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 59 mins
+Total Time: 17 hrs 55 mins
 
-Other         19 hrs 34 mins        █████████████▓░░░░░░░░░░░   55.02 %
-Python        8 hrs 38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Objective-C   1 hr 59 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-TypeScript    1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Text          1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Other         13 hrs 32 mins        ██████████▓░░░░░░░░░░░░░░   43.02 %
+Python        8 hrs 30 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+Objective-C   2 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Text          1 hr 58 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+TypeScript    1 hr 54 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
