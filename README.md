@@ -9,12 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 23 mins
+Total Time: 1 hr 36 mins
 
-Other      7 hrs 7 mins          █████████████████░░░░░░░░   67.72 %
-Swift      2 hrs 15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Text       45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Markdown   23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other   5 hrs 27 mins         ███████████████████░░░░░░   75.42 %
+Swift   1 hr 1 min            ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Text    45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 ```
 
 <!--END_SECTION:waka-->
